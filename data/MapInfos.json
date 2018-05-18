@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Centro da cidade","order":1,"parentId":0,"scrollX":708,"scrollY":396},
+{"id":2,"expanded":false,"name":"CasaPessoa","order":2,"parentId":1,"scrollX":718.6666666666666,"scrollY":406.6666666666667},
+null,
+{"id":4,"expanded":false,"name":"Loja de itens","order":3,"parentId":0,"scrollX":718.6666666666666,"scrollY":406.6666666666667},
+{"id":5,"expanded":false,"name":"Hall da escola","order":4,"parentId":0,"scrollX":1212,"scrollY":420},
+{"id":6,"expanded":false,"name":"Faculdade","order":5,"parentId":0,"scrollX":1136,"scrollY":872},
+{"id":7,"expanded":false,"name":"Sala de aula da escola","order":6,"parentId":0,"scrollX":718.6666666666666,"scrollY":406.6666666666667},
+{"id":8,"expanded":false,"name":"Sala do computador","order":7,"parentId":0,"scrollX":732,"scrollY":1006.6666666666666}
+]
